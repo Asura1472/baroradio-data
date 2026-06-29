@@ -271,7 +271,7 @@
             "region": "인천·경기",
             "frequency": "100.5",
             "band": "FM",
-            "streamUrl": "http://radio2.tbn.or.kr:1935/gyeongin/myStream/playlist.m3u8",
+            "streamUrl": "https://www.tbn.it.kr/gyeongin/myStream/playlist.m3u8",
             "streamType": "HLS",
             "streamSourceType": "DIRECT",
             "scheduleUrl": "https://www.tbn.or.kr/onair/tbnlive.tbn?area_code=6",
