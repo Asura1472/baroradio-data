@@ -276,7 +276,7 @@
             "streamSourceType": "DIRECT",
             "scheduleUrl": "https://www.tbn.or.kr/onair/tbnlive.tbn?area_code=6",
             "homepageUrl": "https://www.tbn.or.kr/",
-            "enabled": true,
+            "enabled": false,
             "priority": 720
         },
         {
